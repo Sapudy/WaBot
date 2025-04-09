@@ -222,7 +222,7 @@ global.imagebot = 'https://telegra.ph/file/3cdaaf791f4eeffe51416.jpg'
 global.giflogo = 'https://telegra.ph/file/c02bad57b6ce1d594a11c.mp4'
 global.thumbs = ['https://telegra.ph/file/5adcb114b279c0085ac15.jpg']
 global.thumbnailUrl = [
-  'https://telegra.ph/file/ef4b742d47e6a9115e2ff.jpg'
+  'https://files.catbox.moe/k4mggh.jpg'
 ]
 global.fotonya1 = 'https://telegra.ph/file/e3bc2db6d9b86ff68959e.jpg'
 global.fotonya2 = 'https://telegra.ph/file/e3bc2db6d9b86ff68959e.jpg' 
